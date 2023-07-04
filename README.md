@@ -1,2 +1,3 @@
-# wandb-zen-mode
-Chrome extension for the wandb.ai website
+# Finegrain W&B Chrome Extension
+
+This is a chrome extension that allows you to make W&B look better.
